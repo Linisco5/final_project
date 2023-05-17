@@ -1,8 +1,8 @@
-# Final project: Images clasifiers
+# Final project: Images classifiers
 Final project Image clasification using ML
 
-Clasification of images made in electric transport charging station (there is any transport in charging zone or not).<br/>
-Used CNN custom architecture, transfer learning with *ResNet50*, *MobileNet*, *VGG16*, *Xception* and *SVM clasifier*.
+Classification of images made in electric transport charging station (there is any transport in charging zone or not).<br/>
+Used CNN custom architecture, transfer learning with *ResNet50*, *MobileNet*, *VGG16*, *Xception* and *SVM classifier*.
 
 ## Packages
 All needed packages are in *requirements.txt* file.
@@ -23,8 +23,8 @@ Images from camera: Elektrėnų EV 2, A1 45,86 km: A1 (Vilnius–Kaunas–Klaip�
 ## Files to get models:
 *CNN_train_and_test_binary_model.py* - to create custom CNN model;<br/>
 *Transfer_learning_binary_model.py* - helps to create 4 models (I test data with models based on ResNet50, MobileNet, VGG16 and Xception archtecture)<br/>
-*SVM_clasifier.py* - Support vector machine clasifier model.
+*SVM_clasifier.py* - Support vector machine classifier model.
 
 ## Files to monitor model failures:
 *load_model_non_labled_data_test.py* - for CNN models <br/>
-*load_svm_model.py* - SVM clasifier.
+*load_svm_model.py* - SVM classifier.
