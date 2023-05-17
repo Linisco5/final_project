@@ -2,13 +2,14 @@
 Final project Image clasification using ML
 
 Clasification of images made in electric transport charging station (there is any transport in charging zone or not).
-Used CNN custom architecture, transfer learning with ResNet50, MobileNet, VGG16, Xception and SVM clasiefier.
+Used CNN custom architecture, transfer learning with ResNet50, MobileNet, VGG16, Xception and SVM clasifier.
 
 ## Packages
 All needed packages are in requirement.txt file.
 
 ## Data
 public data from https://eismoinfo.lt/
+Used images from camera: Elektrėnų EV 2, A1 45,86 km: A1 (Vilnius–Kaunas–Klaipėda) - 45.86 km.
 
 ## File to data augmentation
 data_augmentation.py - create more data by changing brightness range.
