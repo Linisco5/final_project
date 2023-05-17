@@ -27,4 +27,4 @@ Images from camera: Elektrėnų EV 2, A1 45,86 km: A1 (Vilnius–Kaunas–Klaip�
 
 ## Files to monitor model failures:
 *load_model_non_labled_data_test.py* - for CNN models <br/>
-*load_svm_model.py* - fro SVM clasifier.
+*load_svm_model.py* - SVM clasifier.
