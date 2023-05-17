@@ -10,6 +10,9 @@ All needed packages are in requirement.txt file.
 ## Data
 public data from https://eismoinfo.lt/
 
+## Data augmentation
+data_augmentation.py - create more data by changing brightness range.
+
 ## File to get data:
 data_scraper.py
 
