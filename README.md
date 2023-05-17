@@ -13,6 +13,9 @@ public data from https://eismoinfo.lt/
 ## File to data augmentation
 data_augmentation.py - create more data by changing brightness range.
 
+## File to crope images:
+crop_images.py - test how it works if images contains mostly targeted area of charging station.
+
 ## File to get data:
 data_scraper.py
 
