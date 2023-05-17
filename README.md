@@ -5,7 +5,7 @@ Clasification of images made in electric transport charging station (there is an
 Used CNN custom architecture, transfer learning with ResNet50, MobileNet, VGG16, Xception and SVM clasifier.
 
 ## Packages
-All needed packages are in requirement.txt file.
+All needed packages are in [requirement.txt](doc:https://github.com/Linisco5/final_project/blob/main/requirements.txt) file.
 
 ## Data
 For this porject was used public data from https://eismoinfo.lt/. <br/>
